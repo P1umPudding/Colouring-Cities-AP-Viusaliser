@@ -6,4 +6,4 @@ The author will not take any responsibilities for damage on the system, or any o
 
 For further detail check on the [license](LICENSE).
 
-[latest release](/releases)
+[latest release](https://github.com/P1umPudding/Colouring-Cities-AP-Viusaliser/releases/latest)
