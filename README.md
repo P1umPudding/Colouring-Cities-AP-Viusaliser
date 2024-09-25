@@ -15,8 +15,7 @@ Currently the tool only works for Colouring Dresden data, however development fo
 3. Start the `ColouringCitiesAPVisualiser_win_portable.exe` within the main folder.
 
 ### Data import
-- Data for the visualisations can be importet within the import-section of the programm.<br>
-<img src="./media/import_section.png" alt="import section" width="70%"/>
+- Data for the visualisations can be importet within the import-section of the programm.<br><img src="./media/import_section.png" alt="import section" width="70%"/>
 - If the section doesn't open automaticly or you want to change the importet data click on `Import new data` in the top right corner.
 - Either select building data and edit history combining them together via the start-button to create the data set the tool is then going to continue using, or just open such a ready formated data set.
   - Both the building data and the edit history can be found in the data download section on the [Colouring Dresden Plattform](https://colouring.dresden.ioer.de/). A version of the building data, which doesn't change too frequently, and a version of the edit history data, which however changes regularely, can also be found under [/data](./data/).
@@ -28,14 +27,11 @@ Currently the tool only works for Colouring Dresden data, however development fo
 ![main window](./media/main_window.png)
 - Within the area of the map displaying the current visualisation buttons allow for zooming (which can also be done using the mouse wheel), recentering the city as well as hiding the legend (which won't be visible at all in the export of the visualisation).
 - Below the map, a time slider can be used to control the frame of the animation.
-- On the left side different spatio-temporal indicators can be choosen from, defining what aspects should be displayed also allowing for analysis on specific Coloring Cities properties or categories via one of the indicators.<br>
-<img src="./media/indicator_property_selection.png" alt="indicator property selection" width="70%"/>
+- On the left side different spatio-temporal indicators can be choosen from, defining what aspects should be displayed also allowing for analysis on specific Coloring Cities properties or categories via one of the indicators.<br><img src="./media/indicator_property_selection.png" alt="indicator property selection" width="70%"/>
 - Below, you can select one of three time intervalls. The cumulative setting adds up all data from the start of the data collection while turning it off will only display activities within the current time intervall (day/week/month).
 - You may chose from one of the spatial divisions (a 100m-grid, a 1000m-grid and city districts) as the visualisations are based on choropleth maps.
-- On the right side of the map a menue allows to adjust visibility, transparency and color of map layers to tweek the looks of the visualisation.<br>
-<img src="./media/layer_menue.png" alt="layer menue.png" width="50%"/>
+- On the right side of the map a menue allows to adjust visibility, transparency and color of map layers to tweek the looks of the visualisation.<br><img src="./media/layer_menue.png" alt="layer menue.png" width="50%"/>
 
 ### Export
--  <br>
-<img src="./media/export_popup.png" alt="export popup" width="40%"/>
+-  <br><img src="./media/export_popup.png" alt="export popup" width="40%"/>
 - 
