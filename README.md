@@ -18,8 +18,8 @@ Currently the tool only works for Colouring Dresden data, however development fo
 - Data for the visualisations can be importet within the import-section of the programm.<br><img src="./media/import_section.png" alt="import section" width="70%"/>
 - If the section doesn't open automaticly or you want to change the importet data click on `Import new data` in the top right corner.
 - Either select building data and edit history combining them together via the start-button to create the data set the tool is then going to continue using, or just open such a ready formated data set.
-  - Both the building data and the edit history can be found in the data download section on the [Colouring Dresden Plattform](https://colouring.dresden.ioer.de/). A version of the building data, which doesn't change too frequently, and a version of the edit history data, which however changes regularely, can also be found under [/data](./data/).
-  - The tool specific data set can be created by combining the buildings with the edit history data saving the output local or you may also use the provided sample under [/data](./data/).
+  - Both the building data and the edit history can be found in the data download section on the [Colouring Dresden Plattform](https://colouring.dresden.ioer.de/). A version of the building data, which doesn't change too frequently, and a version of the edit history data, which however changes regularely, can also be found under [/example-data](./example-data/).
+  - The tool specific data set can be created by combining the buildings with the edit history data saving the output local or you may also use the provided sample under [/example-data](./example-data/).
 
 ### Visualisation
 - Once you have data importet the main section including the visualisation should open up. Otherwise you may click on `Visualise` in the top right corner.
