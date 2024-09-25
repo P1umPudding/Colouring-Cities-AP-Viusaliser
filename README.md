@@ -10,7 +10,7 @@ Currently the tool only works for Colouring Dresden data, however development fo
 
 ## Quick guide
 ### Setup
-1. Download the `Colouring.Cities.AP.Visualiser_win_portable.zip ` under the [latest release](https://github.com/P1umPudding/Colouring-Cities-AP-Viusaliser/releases/latest).
+1. Download the `Colouring.Cities.AP.Visualiser_win_portable.zip` under the [latest release](https://github.com/P1umPudding/Colouring-Cities-AP-Viusaliser/releases/latest).
 2. Extract the zip-File and save it's main folder to a location you want to execute the tool from.
 3. Start the `ColouringCitiesAPVisualiser_win_portable.exe` within the main folder.
 
