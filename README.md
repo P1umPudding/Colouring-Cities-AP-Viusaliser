@@ -42,7 +42,8 @@ Get a quick idea of the programm: https://youtu.be/hafOZ8ugh1U
 - Pressing the `Export`-Button within the popup, you can select a location, after which the export will start automatically. Exporting a time series may take some time. The single frames will automatically be named `choosen-name_date-of-frame`.
 - Unfortunatly at the moment you have to combine exportet images to an animation by yourself. Exporting animated GIF or videos may follow in a later version.
 
-<br><br>
-<center>
-<img src="./media/animation_city-districts.gif" alt="animation city districts" width="45%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./media/animation_100m.gif" alt="animation 100m" width="45%"/><br>
+<br>
+<center> <div>
+<img src="./media/animation_city-districts.gif" alt="animation city districts" width="45%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./media/animation_100m.gif" alt="animation 100m" width="45%"/><br>
+</div>
 </center>
