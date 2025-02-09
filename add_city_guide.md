@@ -1,12 +1,9 @@
 # <span style="color: rgb(113, 195, 250);">How to Add New Cities</span>
 
-<hr style="margin-top: 13px; margin-bottom: -10px;">
-
 ## <span style="color: rgb(173, 216, 230);">1. New Folder</span>
 
 Create a new folder within the applications location at: <code style="background-color: rgb(60, 60, 60); padding: 5px; border-radius: 3px;">.../cities/&lt;your city&gt;</code>.
 
----
 
 ## <span style="color: rgb(173, 216, 230);">2. properties.txt</span>
 
@@ -34,7 +31,6 @@ Add a <code style="background-color: rgb(60, 60, 60); padding: 5px; border-radiu
 
 - You may use an already existing file of another city and just add/remove attributes if necessary.
 
----
 
 ## <span style="color: rgb(173, 216, 230);">3. CityDistricts.geojson</span>
 
@@ -52,8 +48,6 @@ Add a <code style="background-color: rgb(60, 60, 60); padding: 5px; border-radiu
     &lt;End data / closing brackets&gt;
   </pre>
 
----
-
 ## <span style="color: rgb(173, 216, 230);">4. Optionally: Reduced Geometries</span>
 
 You may add reduced geometries as <code style="background-color: rgb(60, 60, 60); padding: 5px; border-radius: 3px;">CityDistrictsSimplified1.geojson</code>, <code style="background-color: rgb(60, 60, 60); padding: 5px; border-radius: 3px;">CityDistrictsSimplified2.geojson</code>, and <code style="background-color: rgb(60, 60, 60); padding: 5px; border-radius: 3px;">CityDistrictsSimplified3.geojson</code> in order to increase the performance while rendering.<br>
@@ -70,7 +64,6 @@ You may add reduced geometries as <code style="background-color: rgb(60, 60, 60)
     &lt;End data / closing brackets&gt;
 </pre>
 
----
 
 ## <span style="color: rgb(173, 216, 230);">5. Optionally: Color classes</span>
 
