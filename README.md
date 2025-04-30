@@ -1,11 +1,12 @@
 ![about](./media/about.png)
 ## Disclaimer
-This is an experimental version of the tool only. <br>
+This tool is still experimental only. <br>
 Bugs will occur.<br>
+Performance may vary significantly depending on the system and the selected data.<br>
 The author will not take any responsibilities for damage on the system, or any other intricacies caused by the tool. <br>
 For further detail check on the [license](LICENSE).
 
-Currently, the tool has only been proven stable with Colouring Dresden data, however, other cities may work just fine.
+Currently, the tool has only been proven stable with for data from Colouring Dresden, -London and -Loughborough, however, other cities may work just fine.
 <br><br>
 
 ## Showcase video
